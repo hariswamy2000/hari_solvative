@@ -1,0 +1,13 @@
+.keyboard-shortcut {
+    display: inline-block; /* Makes the element fit the content */
+    font-size: 12px;
+    border: 1px solid rgb(222, 226, 230);
+    border-radius: 2px;
+    height: 24px;
+    line-height: 22px; /* Center text vertically */
+    padding: 0 4px; /* Padding left/right */
+    background-color: #fff; /* Optional background color */
+    color: rgb(33, 37, 41); /* Ensure font color matches other components */
+    text-align: center; /* Center the text horizontally */
+  }
+  
